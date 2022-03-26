@@ -79,14 +79,14 @@ https://documenter.getpostman.com/view/6098415/UVsTr3Nc
 
 # Conclusion.
 
-These endpoints are deployed in Heroku Platform which is AWS Platfrom as a Service. I am passionate in implementing Microservice APIs for web-based Applications and highly scalable mobile appplications both iOS and Android, am also conversant with third party APIs such as Firebase Real-Time Notifications API, Google Map APIs, Global and Local Online Payment Gateway APIs and Control Version System(github, gitlab, Bitbucket, Azure Devops and AWS CodeCommit). I have hosted many applications in cloud based servers such as Heroku, AWS Beanstalk and Azure Web Apps. 
+These endpoints are deployed in Heroku Platform which is AWS Platfrom as a Service. I am passionate in implementing Microservice APIs for web-based Applications and highly scalable mobile appplications both iOS and Android, am also conversant with third party APIs such as Firebase Real-Time Notifications API, Google Map APIs, Global and Local Online Payment Gateway APIs and Control Version System(github, gitlab, Bitbucket, Azure Devops and AWS CodeCommit). I have hosted many applications in cloud based servers such as Heroku, AWS Beanstalk and Azure Web Apps.
 
 I am also certified as AWS Cloud Practitioner and Microsoft Azure Fundamentals and currently am pursuing AWS Solutions Architect-Associate.
 
 I am looking forward to work with you.
 
- Best regard
+Best regard
 
- Daniel Kimani M
+Daniel Kimani M
 
- Sofyware Engineer.
+Software Engineer.
